@@ -1,0 +1,13 @@
+#Card{
+    width: 25rem;
+    display: grid;
+    justify-content: center;
+   border: none;
+}
+.currencypage{
+    display: flex;
+    justify-content: center;
+}
+.convertedAmount{
+    
+}
